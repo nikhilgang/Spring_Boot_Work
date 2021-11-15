@@ -1,0 +1,8 @@
+Go through the Directory structure of the application.
+Create following endpoints 
+a) GET :- localhost ..../client/sum/101/102 :- endpoint returns the sum of two number (101+102 = 203)
+Read about @PathVariable
+b) GET :- localhost ..../client/addition?number1=101&number2=102 :- endpoint returns the sum of two number (101+102 = 203)
+Read about @RequestParam
+
+ 
